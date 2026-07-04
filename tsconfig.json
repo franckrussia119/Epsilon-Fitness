@@ -1,0 +1,6 @@
+{
+  "name": "Epsilon Fitness",
+  "description": "Premium cinematic American fitness club website featuring high-performance training, world-class coaching, and luxury amenities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
